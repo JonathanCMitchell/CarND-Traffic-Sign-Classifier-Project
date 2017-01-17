@@ -5,6 +5,7 @@ models
 *.swp
 *.p
 
+Normalization_practice.ipynb
 traffic-signs-data.zip
 
 
